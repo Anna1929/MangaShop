@@ -1,56 +1,56 @@
 # MangaShop 📚
 
-MangaShop - це веб-сайт, розроблений для любителів манги. Він надає платформу, де користувачі можуть переглядати каталог книг манги та переглядати детальну інформацію про кожну книгу. Зауважте, що цей веб-сайт не використовує JavaScript, тому він не має інтерактивних функцій, таких як обробка кліків або валідація форм.
+MangaShop is a website designed for manga lovers. It provides a platform where users can browse a catalog of manga books and view detailed information about each book. Please note that this website does not use JavaScript, so it does not have interactive features such as click handling or form validation.
   <p align="center">
   <img src="https://media.tenor.com/xVrdcuoqoRAAAAAi/mochi-peach.gif" alt="Book">
 </p>
 
-## Використані технології ⚡️
+## Technologies used ⚡️
 
 - HTML
 - CSS
 
-## Структура проекту 📋
+## Project structure 📋
 
-Проект структурований на різні HTML-файли, що представляють різні сторінки веб-сайту, разом з CSS-файлом для стилізації.
+The project is structured into different HTML files representing the different pages of the website, along with a CSS file for styling.
 
-- `index.html`: Це головна сторінка веб-сайту, де відображається каталог книг манги.
+- `index.html`: This is the main page of the website that displays the catalog of manga books.
 
-- `card.html`: Ця сторінка відображає детальну інформацію про конкретну книгу манги.
+- `card.html`: This page displays detailed information about a specific manga book.
 
-- `style.css`: Цей файл містить всі стилі CSS, які використовуються на всьому веб-сайту.
+- `style.css`: This file contains all the CSS styles used throughout the website.
 
-## Особливості 🔥
+## Features 🔥
 
-- Шапка сайту з логотипом, навігаційним меню, полем пошуку та контактним номером телефону.
-- Хлібні крихти для зручної навігації по сайту.
-- Фільтри для пошуку манги за жанрами, авторами та ціною.
-- Каталог продуктів, де кожен продукт має свою картку з інформацією та кнопкою "Купити".
-- Підвал сайту з копірайтом та посиланнями на "Умови обслуговування" та "Політику конфіденційності".
-- Адаптивний дизайн для мобільних пристроїв.
+- Site header with logo, navigation menu, search field and contact phone number.
+- Breadcrumbs for easy site navigation.
+- Filters for searching manga by genres, authors and price.
+- Product catalog where each product has its own card with information and a "Buy" button.
+- Site basement with copyright and links to "Terms of Service" and "Privacy Policy".
+- Responsive design for mobile devices.
 
-## Функції ⚙️
+## Functions⚙️
 
-- **Головна сторінка**: На головній сторінці відображається каталог книг манги. Кожна книга представлена зображенням, назвою та ціною. Користувачі можуть натиснути на книгу, щоб переглянути більше деталей.
+- **Main Page**: The main page displays the catalog of manga books. Each book is represented by an image, title and price. Users can click on a book to view more details.
   <p align="center">
   <img src="https://github.com/Anna1929/MangaShop/blob/images/localhost_63342_Web_sprint01_t06_oscorp_index.html.png" alt="Book">
 </p>
 
-- **Сторінка деталей книги**: Сторінка деталей книги надає повну інформацію про конкретну книгу манги, включаючи автора, художника, рік випуску, жанр, віковий рейтинг та короткий опис книги.
+- **Book Details Page**: The book details page provides complete information about a specific manga book, including author, artist, year of publication, genre, age rating, and a brief description of the book.
   <p align="center">
   <img src="https://github.com/Anna1929/MangaShop/blob/images/localhost_63342_Web_sprint01_t06_oscorp_card.html.png" alt="Info book">
 </p>
 
-- **Навігаційна панель**: Навігаційна панель дозволяє користувачам переходити до різних розділів веб-сайту, включаючи Головну, Сервіс та Контакти.
+- **Navigation Bar**: The Navigation Bar allows users to navigate to different sections of the website, including Home, Service and Contact.
 
-- **Адаптивний дизайн**: Веб-сайт розроблено так, щоб він був адаптивним і міг адаптуватися до різних розмірів екрану, забезпечуючи оптимальний досвід перегляду як на настільних комп'ютерах, так і на мобільних пристроях.
+- **Responsive Design**: The website is designed to be responsive and able to adapt to different screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
   <p align="center">
   <img src="https://github.com/Anna1929/MangaShop/blob/images/localhost_63342_Web_sprint01_t06_oscorp_index.html__ijt=mbv463q0ssrp4ef5cd0istf4dr.png" alt="Web" width=250px>
 </p>
 
-## Налаштування ✅
+## Settings ✅
 
-Щоб запустити цей веб-сайт локально, слідуйте цим крокам:
+To run this website locally, follow these steps:
 
-1. Клонуйте репозиторій на свій локальний комп'ютер.
-2. Відкрийте файл `index.html` у своєму веб-браузері.
+1. Clone the repository to your local computer.
+2. Open the `index.html` file in your web browser.
